@@ -1,1 +1,1 @@
-<img src="https://github.com/SwapnilpatilTech/Javascript-PR/blob/a144391ecae78dd041873101a17dbf42f5e8b980/Screen%20Recording%202025-04-04%20202317.gif"width=100%>
+<img src="https://github.com/SwapnilpatilTech/JAVASCRIPT-LIVE-PROJECTS/blob/073e409412c520954b6fb5a57c050144f86c1cb5/stop%20watch/ASSET/STOP%20WATCH.png"width=100%>
